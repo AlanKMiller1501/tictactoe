@@ -5,6 +5,10 @@ body {
 	background-color: salmon;
 }
 
+h1  {
+	background-color: yellow;
+}
+
 .grid {
 	display: grid;
 	margin: auto;
